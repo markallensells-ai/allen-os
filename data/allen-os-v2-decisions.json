@@ -1,0 +1,61 @@
+{
+  "brand": {
+    "name": "ALLEN OS",
+    "tagline": "Sales. Systems. Execution.",
+    "theme": "Matte Black + Electric Blue"
+  },
+  "goals": {
+    "contacts": 50,
+    "conversations": 25,
+    "leads": 2,
+    "appointments": 1
+  },
+  "navigation": {
+    "execute": [
+      "Mission",
+      "War Room"
+    ],
+    "develop": [
+      "Train",
+      "Library"
+    ],
+    "operate": [
+      "Pipeline",
+      "Analyze"
+    ]
+  },
+  "schedule": [
+    [
+      "6:00-7:00",
+      "Physical Activity"
+    ],
+    [
+      "7:00-7:30",
+      "Script Practice + Daily Prospecting Launch"
+    ],
+    [
+      "7:30-11:00",
+      "Call Block 1: Expireds + FSBOs"
+    ],
+    [
+      "11:00-11:30",
+      "Power 30"
+    ],
+    [
+      "12:00-3:00",
+      "Call Block 2: Circle + Absentee + Nurture"
+    ],
+    [
+      "3:30-4:00",
+      "KPI + Pipeline Review"
+    ],
+    [
+      "4:00-6:00",
+      "Appointments / Call Block 3"
+    ],
+    [
+      "9:00-10:00",
+      "Wind Down + Prep Tomorrow"
+    ]
+  ]
+}
